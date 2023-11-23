@@ -4,7 +4,7 @@ const faviconContent = document.createElement('link');
 // Set the attributes for the favicon link element
 faviconContent.rel = 'icon';
 faviconContent.type = 'image/x-icon';
-faviconContent.href = 'https://i.imgur.com/1dfUEfQ.png';
+faviconContent.href = 'https://i.imgur.com/0r5EVgS.png';
 
 // Add the favicon link element to the document's head
 document.head.appendChild(faviconContent);
